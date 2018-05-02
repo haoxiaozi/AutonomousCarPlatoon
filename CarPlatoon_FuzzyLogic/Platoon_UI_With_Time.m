@@ -1,7 +1,6 @@
-%  Autonomous Car Platoon
+% Autonomous Car Platoon
 % UI Implementation of the simulation using GUIDE
-% of MATLAB.
-% 
+%                 of MATLAB.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 function varargout = Platoon_UI_With_Time(varargin)
 %PLATOON_UI_WITH_TIME M-file for Platoon_UI_With_Time.fig
@@ -27,7 +26,7 @@ function varargout = Platoon_UI_With_Time(varargin)
 
 % Edit the above text to modify the response to help Platoon_UI_With_Time
 
-% Last Modified by GUIDE v2.5 12-Aug-2016 16:04:19
+% Last Modified by GUIDE v2.5 01-May-2018 22:35:16
 
 % Begin initialization code - DO NOT EDIT
 gui_Singleton = 1;
